@@ -33,6 +33,8 @@ class ViewController: UIViewController {
             NumberInput.text = numberresult
         }
     }
+    //Added Comments
+    
     
     @IBAction func clear(_ sender: Any) {
         firstnumber = ""
