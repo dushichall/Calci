@@ -150,6 +150,3 @@ class ViewController: UIViewController {
         
     }
 }
-
-// MARK: - CodeAI Output
-// MARK: - CodeAI Output

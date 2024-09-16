@@ -19,9 +19,5 @@ class MyViewController: UIViewController {
         // Create and add centerXconstraint
         let centerXconstraint = NSLayoutConstraint(item: subview1, attribute: .centerX, relatedBy: .equal, toItem: view, attribute: .centerX, multiplier: 1.0, constant: 2.0)
         let centerYconstraint = NSLayoutConstraint(item: subview1, attribute: .centerY, relatedBy: .equal, toItem: view, attribute: .centerY, multiplier: 1.0, constant: 2.0)
-        
     }
-    
-    
-    
 }
